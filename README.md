@@ -1,5 +1,11 @@
 # HealthSafe
 
+## WeThinkCode_ elective submission tracking
+
+Repository tracking code: `WTC-5QF4JVHX`
+
+This code identifies the repository for elective submission tracking.
+
 ## Overview
 
 Hospital ward status and emergency staffing schedules.
